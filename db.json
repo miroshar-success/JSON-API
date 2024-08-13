@@ -6,7 +6,7 @@
       "description": "Description for product 1",
       "price": 19.99,
       "rating": 4.5,
-      "imageUrl": "https://via.placeholder.com/150"
+      "imageUrl": "https://via.placeholder.com/200"
     },
     {
       "id": 2,
